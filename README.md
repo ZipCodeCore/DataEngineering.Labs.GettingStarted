@@ -69,3 +69,9 @@ brew install grep
 * Use the downloaded dmg to install the application.
 
 
+### Install Postman
+
+* Visit [Postman's](https://www.postman.com/downloads/) download page.
+* Download the latest version (zip).
+* Drag and drop the application to the /Applications folder.
+
