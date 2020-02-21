@@ -1,5 +1,6 @@
 # Getting Started
 
+## Week 1
 
 ### Ensure git is installed 
 
@@ -75,3 +76,17 @@ brew install grep
 * Download the latest version (zip).
 * Drag and drop the application to the /Applications folder.
 
+
+## Week 3
+
+### AWS CLI
+
+* Visit [Installing the AWS CLI version 2 on macOS](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
+* Follow the guide to install and confirm installation.
+
+## Week 4 
+
+* Visit Docker's [Get Started With Docker](https://www.docker.com/get-started) page.
+* Register for an account.
+* Download and install the docker for desktop app.
+* Sign in to the docker for desktop app using your docker account.
