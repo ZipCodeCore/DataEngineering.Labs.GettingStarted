@@ -1,6 +1,11 @@
 # Getting Started
 
 
+**Important**: It should go without saying that anytime you are asked to create an account you should ALWAYS:
+* Make sure to use a professional username/handle. We recommend the username incorporates your name. 
+* Be sure to add an appropriate avatar to your profile. 
+
+
 ## Week 1
 
 
@@ -37,7 +42,6 @@ chsh -s /bin/bash
 * Follow the directions under "Intall Homebrew".
 
 
-
 ### Anaconda
 
 * Visit [Anaconda's](https://www.anaconda.com/distribution/) download page.
@@ -64,6 +68,24 @@ chsh -s /bin/bash
 * Visit [Postgresapp's](https://postgresapp.com/downloads.html) download page.
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
+
+
+### Slack
+
+* Visit [Slack's](https://slack.com/downloads/mac) download page.
+* Download the dmg for the latest release.
+* Use the downloaded dmg to install the application.
+* Sign in to the zcw workspace.
+
+
+### gmail
+
+* Visit [gmail.com](https://www.google.com/gmail/about/) and create an account.
+
+
+### github
+
+* Visit [github.com](https://github.com/) and signup for an account.  
 
 
 ## Week 2
