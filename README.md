@@ -37,7 +37,7 @@ chsh -s /bin/bash
 ### Install ggrep
 
 ```
-brew install ggrep
+brew install grep
 ```
 
 
