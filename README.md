@@ -1,8 +1,10 @@
 # Getting Started
 
+
 ## Week 1
 
-### Ensure git is installed 
+
+### git
 
 Using Terminal, issue the following command:
 ```
@@ -29,60 +31,86 @@ chsh -s /bin/bash
 ```
 
 
-### Install Brew
+### Brew
 
 * Visit [https://brew.sh/](https://brew.sh/).
 * Follow the directions under "Intall Homebrew".
 
 
-### Install ggrep
 
-```
-brew install grep
-```
-
-
-### Install Anaconda
+### Anaconda
 
 * Visit [Anaconda's](https://www.anaconda.com/distribution/) download page.
 * Download the pkg file for Python 3.7 version.
 * Install the package.
 
 
-### Install PyCharm
+### PyCharm
 
 * Visit [JetBrains'](https://www.jetbrains.com/pycharm/) download page for PyCharm.
 * Download the dmg for the Professional version for Mac.
 * Use the downloaded dmg to install the application.
 
 
-### Install DataGrip
+### DataGrip
 
 * Visit [JetBrains'](https://www.jetbrains.com/datagrip/) download page for DataGrip.
 * Download the dmg.
 * Use the downloaded dmg to install the application.
 
 
-### Install Postgres App
+### Postgres App
 
 * Visit [Postgresapp's](https://postgresapp.com/downloads.html) download page.
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
 
 
-### Install Postman
+## Week 2
+
+
+### ggrep
+
+Using terminal, type:
+```
+grep --version 
+```
+
+You should recieve a response similar to:
+```
+grep (BSD grep) 2.5.1-FreeBSD
+```
+
+We want to be able to use PCRE for this week's labs so we will be using GNU grep istead of the already installed BSD grep. 
+```
+brew install grep
+```
+
+Validate install was successful: 
+```
+ggrep --version
+```
+Should yield a result similar to:
+
+```
+ggrep (GNU grep) 3.4
+...
+```
+
+
+## Week 3
+
+### Postman
 
 * Visit [Postman's](https://www.postman.com/downloads/) download page.
 * Download the latest version (zip).
 * Drag and drop the application to the /Applications folder.
 
-
-## Week 3
-
 ### AWS CLI
 
 * Visit [Installing the AWS CLI version 2 on macOS](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
 * Follow the guide to install and confirm installation.
+
 
 ## Week 4 
 
