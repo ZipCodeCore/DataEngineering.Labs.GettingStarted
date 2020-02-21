@@ -9,6 +9,20 @@
 ## Week 1
 
 
+### Terminal
+
+#### Option 1
+* Command (or Cmd) ⌘ - Space bar to open the Spotlight search field. 
+* Type "Terminal". 
+* Press Enter.
+
+#### Option 2 
+
+* Open Finder
+* Navigate to /Applications/Utilities/
+* Double click on Terminal.app
+
+
 ### git
 
 Using Terminal, issue the following command:
