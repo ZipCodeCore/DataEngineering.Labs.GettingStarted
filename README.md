@@ -5,7 +5,9 @@
 * Make sure to use a professional username/handle. We recommend the username incorporates your name. 
 * Be sure to add an appropriate avatar to your profile. 
 
+## In your Notebook
 
+Be sure to write down any passwords you create for any of these accounts on a special page of your notenook. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
 ## Week 1
 
 
@@ -60,7 +62,7 @@ chsh -s /bin/bash
 
 * Visit [Anaconda's](https://www.anaconda.com/distribution/) download page.
 * Download the pkg file for Python 3.7 version.
-* Install the package.
+* Install the package. Be sure to follow intructions for Mac OS version "Catalina".
 
 
 ### PyCharm
@@ -83,6 +85,9 @@ chsh -s /bin/bash
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
 
+### MySQL
+
+* Find a clean way to install MySQL as wella s Postgres.
 
 ### Slack
 
@@ -104,6 +109,7 @@ chsh -s /bin/bash
 
 ## Week 2
 
+Let's do all of these on Day One, rather than try to remember to keep assigning this repo. So, finish all these now.
 
 ### ggrep
 
