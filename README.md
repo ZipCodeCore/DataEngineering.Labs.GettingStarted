@@ -63,7 +63,7 @@ chsh -s /bin/bash
 * Visit [Anaconda's](https://www.anaconda.com/distribution/) download page.
 * Download the pkg file for Python 3.7 version.
 * Install the package. Be sure to follow intructions for Mac OS version "Catalina".
-
+  * NB: the new default shell is zsh. You will instead need to run `source ~/opt/anaconda3/bin/activate` followed by `conda init zsh`. (this is only be needed if you did not change your shell to bash)
 
 ### PyCharm
 
