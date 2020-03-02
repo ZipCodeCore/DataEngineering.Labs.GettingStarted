@@ -8,7 +8,6 @@
 ## In your Notebook
 
 Be sure to write down any passwords you create for any of these accounts on a special page of your notenook. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
-## Week 1
 
 
 ### Terminal
@@ -28,17 +27,17 @@ Be sure to write down any passwords you create for any of these accounts on a sp
 ### git
 
 Using Terminal, issue the following command:
-```
+```bash
 git --version
 ```
 
 This should return the a line similar to:  
-```
+```bash
 git version 2.21.1 (Apple Git-122.3)
 ```
 
 You may need run the following in order to install git along with other various command line tools.
-```
+```bash
 xcode-select --install
 ```
 
@@ -47,7 +46,7 @@ xcode-select --install
 
 Using Terminal, issue the following command: 
 
-```
+```bash
 chsh -s /bin/bash
 ```
 
@@ -87,7 +86,9 @@ chsh -s /bin/bash
 
 ### MySQL
 
-* Find a clean way to install MySQL as wella s Postgres.
+```bash
+brew install mysql
+```
 
 ### Slack
 
@@ -107,40 +108,34 @@ chsh -s /bin/bash
 * Visit [github.com](https://github.com/) and signup for an account.  
 
 
-## Week 2
-
-Let's do all of these on Day One, rather than try to remember to keep assigning this repo. So, finish all these now.
-
 ### ggrep
 
 Using terminal, type:
-```
+```bash
 grep --version 
 ```
 
 You should recieve a response similar to:
-```
+```bash
 grep (BSD grep) 2.5.1-FreeBSD
 ```
 
 We want to be able to use PCRE for this week's labs so we will be using GNU grep istead of the already installed BSD grep. 
-```
+
+```bash
 brew install grep
 ```
 
 Validate install was successful: 
-```
+```bash
 ggrep --version
 ```
 Should yield a result similar to:
 
-```
+```bash
 ggrep (GNU grep) 3.4
 ...
 ```
-
-
-## Week 3
 
 ### Postman
 
@@ -154,7 +149,7 @@ ggrep (GNU grep) 3.4
 * Follow the guide to install and confirm installation.
 
 
-## Week 4 
+### Docker 
 
 * Visit Docker's [Get Started With Docker](https://www.docker.com/get-started) page.
 * Register for an account.
