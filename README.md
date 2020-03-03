@@ -86,9 +86,9 @@ chsh -s /bin/bash
 
 ### MySQL
 
-```bash
-brew install mysql
-```
+* Visit [MySql's](https://dev.mysql.com/downloads/mysql/) download page.
+* Download the mg for the latest release.
+* Use the downloaded dmg to install the application.
 
 ### Slack
 
