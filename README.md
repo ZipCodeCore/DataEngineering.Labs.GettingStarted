@@ -87,7 +87,7 @@ chsh -s /bin/bash
 ### MySQL
 
 * Visit [MySql's](https://dev.mysql.com/downloads/mysql/) download page.
-* Download the mg for the latest release.
+* Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
 
 ### Slack
