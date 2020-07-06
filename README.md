@@ -5,9 +5,9 @@
 * Make sure to use a professional username/handle. We recommend the username incorporates your name. 
 * Be sure to add an appropriate avatar to your profile. 
 
-## In your Notebook
+### Passwords
 
-Be sure to write down any passwords you create for any of these accounts on a special page of your notenook. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
+Consider a password manager like enpass or lastpass to manage all of your accounts. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
 
 
 ### Terminal
