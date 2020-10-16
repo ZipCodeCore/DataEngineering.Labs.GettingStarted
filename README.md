@@ -90,6 +90,12 @@ chsh -s /bin/bash
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
 
+### Discord
+
+* Get the Discord app on your mac
+* sign up for an account
+* look for the ZipCode Discord Server and join
+
 ### Slack
 
 * Visit [Slack's](https://slack.com/downloads/mac) download page.
